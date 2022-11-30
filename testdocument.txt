@@ -1,7 +1,6 @@
-This is a test document.
-It has stuff in it because it has to in order to show up in the Java thing.
-hhhhhhhhhhhhhhhhhhhhhh
-abcdefghijklmnopqrstuvwxyz
-zyxwvutsrqponmlkjihgfedcba
-qazwsxedcrfvtgbyhnujmikolp
-polikujmyhntgbrfvedcwsxqaz
+beatsJames
+iq = 1069
+power = 150
+notbeatsJames
+iq = 134
+power = 26
